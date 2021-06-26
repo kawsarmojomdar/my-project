@@ -1,0 +1,147 @@
+body{
+  margin-left: 20px;
+  
+}
+div {
+
+  
+}
+    .nav-bar > div > a {
+         text-decoration: none;
+         color: black;
+         display: block;
+      }
+      .nav-bar > div > ul {
+         list-style-type: none;
+         margin: 0;
+         padding: 0;
+      }
+      .nav-bar > ul > li > a {
+         padding: 10px;
+         background: lightgrey;
+      }
+      
+      .nav-bar .active {
+         
+         
+      }
+      .nav-bar > div > ul > li {
+         float: left;
+         width: 25% /* 100% / 4 (number of li elements) = 25% */
+         
+      }
+
+#about{
+  text-align: right;
+}
+
+#sweet{
+  text-align: right;
+}
+span{
+  color: red;
+  text-align: right;
+  
+}
+
+#leftdiv{
+ margin-top:20px;
+  margin-left: 0;
+  width:46.34%;
+}
+
+#rightdiv{
+  width:53.37%;
+  margin-top: 20px;
+ 
+}
+#phone1{
+  width: 30%;
+  margin-left: 5px;
+  margin-top: 20px;
+  margin-right: 10px;
+  
+}
+
+
+
+#phone2{
+    width: 30%;
+     margin-right: 10px;
+       margin-top: 20px;
+}
+#phone3{
+    width: 32%;
+     margin-left: 0px;
+       margin-top: 20px;
+}
+#phone11{
+    width: 32%;
+     margin-right: 10px;
+       margin-top: 20px;
+       margin-left: 5px;
+  
+}
+#phone22{
+    width: 30%;
+    
+     margin-right: 10px;
+       margin-top: 20px;
+}
+
+#phone33{
+    width: 30%;
+     margin-left: 0px;
+       margin-top: 20px;
+}
+
+#bag{
+  width: 29%;
+  margin-left: 5px;
+  margin-top: 20px;
+  margin-right: 10px;
+  
+}
+
+#towdiv{
+  
+  width: 29%;
+  margin-right: 10px;
+  margin-top: 20px;
+  
+}
+
+
+#beauty{
+  margin-bottom: 10px;
+  
+}
+
+#shoe{
+  
+  
+}
+
+#order{
+  width: 41%;
+  
+  margin-top: 20px;
+  
+  
+}
+
+#smart{
+  margin-top: 20px;
+}
+#laptop{
+  margin-top: 20px;
+}
+
+#catagory{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+footer{
+  margin-top: 15px;
+  margin-bottom:25px;
+}
