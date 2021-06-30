@@ -6,31 +6,7 @@ div {
 
   
 }
-    .nav-bar > div > a {
-         text-decoration: none;
-         color: black;
-         display: block;
-      }
-      .nav-bar > div > ul {
-         list-style-type: none;
-         margin: 0;
-         padding: 0;
-      }
-      .nav-bar > ul > li > a {
-         padding: 10px;
-         background: lightgrey;
-      }
-      
-      .nav-bar .active {
-         
-         
-      }
-      .nav-bar > div > ul > li {
-         float: left;
-         width: 25% /* 100% / 4 (number of li elements) = 25% */
-         
-      }
-
+    
 #about{
   text-align: right;
 }
@@ -48,6 +24,14 @@ span{
  margin-top:20px;
   margin-left: 0;
   width:46.34%;
+}
+#leftdiv > h4{
+  
+  font-size: 16px;
+}
+
+#leftdiv > p {
+ font-size: 8px;
 }
 
 #rightdiv{
@@ -144,4 +128,38 @@ span{
 footer{
   margin-top: 15px;
   margin-bottom:25px;
+}
+
+.card-text {
+ 
+  font-size: 9px;
+}
+
+.btn{
+  width: 50px;
+  height: 20px;
+  font-size: 10px;
+  padding: 0;
+}
+h3{
+  font-size: 10px;
+}
+.card-title , .asus{
+  font-size: 10px;
+  
+}
+
+#bagrow1{
+ 
+  height: 30%;
+  
+  
+}
+#bagrow2{
+  height: 60%;
+  
+  margin-left: 20px;
+}
+#nav1{
+  
 }
